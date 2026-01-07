@@ -1,0 +1,2 @@
+DOMAIN = "cavok"
+VERSION = "0.1.0"
