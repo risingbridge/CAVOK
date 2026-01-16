@@ -4,9 +4,9 @@
   "codeowners": ["@Risingbridge"],
   "dependencies": [],
   "documentation": "https://github.com/risingbridge/CAVOK",
-  "integration_type": "service",
+  "integration_type": "hub",
   "iot_class": "cloud_polling",
-  "requirements": ["aiohttp"],
+  "requirements": ["avwx-engine"],
   "version": "0.1.0",
   "config_flow": true
 }
